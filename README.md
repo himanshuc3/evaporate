@@ -4,5 +4,5 @@ A lightweight javascript library for displaying Toasts.
 
 ## What's a Toast?
 
-- A toast provides simple **feedback** about an operation in a **small popup**. It only fills the amount of space required for the message and the current activity remains visible and interactive. Toasts automatically disappear after a timeout.
+- Simply told, a toast provides simple **feedback** about an operation in a **small popup**. Toasts automatically disappear after a timeout.
 
